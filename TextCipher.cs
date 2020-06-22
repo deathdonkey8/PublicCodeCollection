@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Cipher
 {
-    class Program
+    class TextCipher
     {
         public static void Main()
         {
