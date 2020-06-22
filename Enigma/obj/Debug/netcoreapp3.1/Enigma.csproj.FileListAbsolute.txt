@@ -1,0 +1,13 @@
+C:\Users\Will Stone\Desktop\scripts\Enigma\bin\Debug\netcoreapp3.1\Enigma.exe
+C:\Users\Will Stone\Desktop\scripts\Enigma\bin\Debug\netcoreapp3.1\Enigma.deps.json
+C:\Users\Will Stone\Desktop\scripts\Enigma\bin\Debug\netcoreapp3.1\Enigma.runtimeconfig.json
+C:\Users\Will Stone\Desktop\scripts\Enigma\bin\Debug\netcoreapp3.1\Enigma.runtimeconfig.dev.json
+C:\Users\Will Stone\Desktop\scripts\Enigma\bin\Debug\netcoreapp3.1\Enigma.dll
+C:\Users\Will Stone\Desktop\scripts\Enigma\bin\Debug\netcoreapp3.1\Enigma.pdb
+C:\Users\Will Stone\Desktop\scripts\Enigma\obj\Debug\netcoreapp3.1\Enigma.csprojAssemblyReference.cache
+C:\Users\Will Stone\Desktop\scripts\Enigma\obj\Debug\netcoreapp3.1\Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Will Stone\Desktop\scripts\Enigma\obj\Debug\netcoreapp3.1\Enigma.AssemblyInfoInputs.cache
+C:\Users\Will Stone\Desktop\scripts\Enigma\obj\Debug\netcoreapp3.1\Enigma.AssemblyInfo.cs
+C:\Users\Will Stone\Desktop\scripts\Enigma\obj\Debug\netcoreapp3.1\Enigma.dll
+C:\Users\Will Stone\Desktop\scripts\Enigma\obj\Debug\netcoreapp3.1\Enigma.pdb
+C:\Users\Will Stone\Desktop\scripts\Enigma\obj\Debug\netcoreapp3.1\Enigma.genruntimeconfig.cache
